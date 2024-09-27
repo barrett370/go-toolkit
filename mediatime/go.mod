@@ -1,4 +1,4 @@
-module bithub.brightcove.com/alive/mediatime
+module github.com/barrett370/go-toolkit/mediatime
 
 go 1.21.0
 
